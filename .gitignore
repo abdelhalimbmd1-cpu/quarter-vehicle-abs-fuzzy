@@ -1,0 +1,7 @@
+# MATLAB / Simulink temporary artifacts
+slprj/
+*.slxc
+*.asv
+*.autosave
+*~
+*.log
